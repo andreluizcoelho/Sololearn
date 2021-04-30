@@ -1,4 +1,4 @@
-#Python Core Quizzes 
+#Python Core Quizzes SoloLearn
 
 
 
