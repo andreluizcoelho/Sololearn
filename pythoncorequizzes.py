@@ -1,6 +1,12 @@
-#These are 10 Python Quizzes given at the end of the Python 3 Course from SoloLearn.
+#Python Core Quizzes 
 
-#Solo Learn Course Python 3 - 1. Basic Concepts - Exponentiation
+
+
+
+#Basic Concepts Chapter 1
+
+
+#Exponentiation
 
 #Exponentiation is the raising of one number to the power of another. 
 #This operation is performed using two asterisks **
@@ -27,7 +33,15 @@ print(result)
 #10737418.24
 
 
-#Sololearn Python 3 Course - 2. Basic Concepts - Simple Calculator
+
+
+
+
+
+
+
+
+#Basic Concepts Chapter 2
 
 #Simple calculator 
 
@@ -48,7 +62,15 @@ sum = a + b
 print(sum)
 
 
-#SoloLearn Python 3 Course - 3. Control Structures - FizzBuzz
+
+
+#Control Structures Chapter 3 
+
+
+
+#FizzBuzz
+
+
 
 #FizzBuzz is a well known programming assignment asked during interviews. 
 
@@ -89,9 +111,17 @@ for x in range(1,n):
 #13
 
 
-#SoloLearn Python 3 Course - 4. Functions & Modules - Celsius to Fahrenheit Converter
 
-##Celsius to Fahrenheit 
+
+
+
+
+
+#Functions & Modules Chapter 4
+
+
+
+##Celsius to Fahrenheit Converter 
 
 #You are making a Celsius to Fahrenheit converter. 
 #Write a function to take the Celsius value as an argument and return the corresponding Fahrenheit value.
@@ -114,7 +144,15 @@ fahrenheit = conv(celsius)
 print(fahrenheit)
 
 
-#SoloLearn Python 3 Course - 5. Exceptions & Files - Book Titles
+
+
+
+
+
+#Exceptions & Files Chapter 5 
+
+
+#Book Titles
 
 
 #You have been asked to make a special book categorization program, which assigns each book a special 
@@ -159,7 +197,15 @@ file.close()
 #file.close()
 
 
-#SoloLearn Python 3 Course 6. More Types - Longest Word
+
+
+
+
+
+#More Types Chapter 6 
+
+
+#Longest Word
 
 
 #Given a text as input, find and output the longest word. 
@@ -191,7 +237,14 @@ print(longest)
 
 
 
-#SoloLearn Python 3 Course - 7. Functional Programming - Fibonacci
+
+
+
+
+#Functional Programming Chapter 7 
+
+
+#Fibonacci
 
 
 #The Fibonacci sequence is one of the most famous formulas in mathematics. 
@@ -234,7 +287,9 @@ else:
         print(fibonacci(i))
     
     
-#Solo Learn Course Python 3 - 8. OOP - Juice Maker
+#OOP Chapter 8
+
+#Juice Maker
 
 #You are given a Juice class, which has name and capacity properties. 
 #You need to complete the code to enable and adding of two Juice objects, resulting in a new Juice object with the combined capacity and name of the two juices being added. 
@@ -269,7 +324,14 @@ print(result)
 
 
 
-#Solo Learn Course Python 3 - 9. Regular Expressions - Phone Number Validator
+
+
+
+
+#Regular Expressions Chapter 9 
+
+
+#Phone Number Validator
 
 ##You are given a number input, and need to check if it is a valid phone number. 
 #A valid phone number has exactly 8 digits and starts with 1,8 or 9. 
@@ -314,7 +376,14 @@ else:
 #Invalid
 
 
-#Solo Learn Course Python 3 - 10. Pythonicness and Packaging - Adding Words
+
+
+
+
+#Pythonicness and Packaging Chapter 10 
+
+
+#Adding Words
 
 ##You need to write a function that takes multiple words as its argument and returns a concatenated version of those words separated by dashes (-). The function should be able to take a varying number of words as the argument. 
 
